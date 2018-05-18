@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Please, HELP!
 
-You can use the [editor on GitHub](https://github.com/helpmesurvive/helpme/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm in desperate situation which requires well, money. 
+I can only hope for great souls with big hearts to help wime to survive this. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Appreciate your help and bless you God!
+
+### Please send your donations to the following Bitcoin address:
+![ ](https://bitcoin.org/img/icons/logotop.svg)
+### 1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a
+### Thank you!
+
 
 ### Markdown
 
