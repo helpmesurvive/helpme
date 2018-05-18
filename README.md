@@ -7,6 +7,6 @@ Appreciate your help and bless you God!
 
 ### Please send your donations to the following [Bitcoin address](https://blockchain.info/payment_request?address=1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a&amount=1):
 ![ ](https://bitcoin.org/img/icons/logotop.svg)
-### 1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a
+### [1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a](https://blockchain.info/payment_request?address=1DNoA7Ne2WaihQ2waYyhBRPf3o15VrQM2a&amount_local=100&currency=USD&nosavecurrency=true)
 ### Thank you!
 
